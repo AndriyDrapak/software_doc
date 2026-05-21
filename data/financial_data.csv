@@ -1,0 +1,1001 @@
+company_name,industry,quarter,year,report_type,indicator_name,value,currency
+Kuhic Haley and Rohan,Retail,4,2024,quarterly,revenue,380204.22,EUR
+Walker - Haag,Finance,2,2022,annual,operating_cost,6297996.46,USD
+Kozey - Krajcik,Tech,3,2018,annual,expenses,1110550.57,USD
+Breitenberg LLC,Tech,4,2019,quarterly,expenses,7862772.64,UAH
+Glover Stehr and Friesen,Finance,2,2021,annual,profit,3670047.15,USD
+Brakus Wuckert and Medhurst,Manufacturing,4,2023,annual,operating_cost,51642.97,EUR
+Jenkins - Swift,Finance,2,2020,quarterly,operating_cost,8159813.26,EUR
+Leannon Ortiz and Pacocha,Retail,4,2022,quarterly,profit,4989962.48,EUR
+Gleason Haag and Baumbach,Healthcare,1,2021,quarterly,tax,1249998.56,EUR
+Conroy Reilly and Legros,Healthcare,4,2020,annual,tax,1883258.80,EUR
+Schamberger Bashirian and Brown,Finance,1,2021,annual,revenue,5715915.99,USD
+Rice LLC,Tech,4,2019,annual,operating_cost,4861624.22,EUR
+Lind Inc,Healthcare,4,2018,annual,expenses,9160389.49,UAH
+Armstrong - Raynor,Manufacturing,4,2024,annual,profit,3369160.12,EUR
+Hayes - Jaskolski,Finance,3,2023,quarterly,tax,1231101.00,EUR
+Conn Ritchie and Bradtke,Manufacturing,3,2023,quarterly,revenue,2652582.76,UAH
+Frami Inc,Finance,2,2024,quarterly,revenue,5502512.10,UAH
+Strosin - O'Hara,Retail,3,2019,annual,operating_cost,7417312.31,USD
+Williamson D'Amore and Ward,Manufacturing,2,2024,quarterly,operating_cost,6505094.84,UAH
+Weber Group,Retail,1,2019,quarterly,expenses,6233929.79,EUR
+Schulist - Stanton,Manufacturing,2,2024,annual,operating_cost,3590182.78,USD
+Carroll Group,Tech,3,2022,annual,expenses,1956728.11,EUR
+Kris - Powlowski,Finance,2,2023,annual,tax,8040625.26,UAH
+Cole - McKenzie,Tech,3,2020,quarterly,revenue,84682.63,USD
+Streich - Hintz,Tech,4,2023,quarterly,profit,1246577.60,EUR
+Labadie and Sons,Finance,4,2020,quarterly,revenue,6298611.02,UAH
+Nienow Bins and Mertz,Healthcare,1,2022,quarterly,tax,6739963.51,EUR
+Steuber - Fadel,Retail,1,2020,quarterly,tax,4520106.73,USD
+Von and Sons,Tech,1,2018,annual,expenses,3992926.73,UAH
+Rempel Greenfelder and Hessel,Finance,2,2021,quarterly,expenses,9721259.02,USD
+Lemke Group,Healthcare,2,2019,annual,revenue,7628697.82,EUR
+Nienow and Sons,Tech,4,2019,quarterly,profit,9509544.48,USD
+Kunde Group,Tech,2,2020,quarterly,profit,5374345.16,EUR
+Doyle - Kiehn,Tech,4,2022,quarterly,operating_cost,5975062.83,USD
+Torphy Group,Healthcare,4,2020,quarterly,operating_cost,4762042.04,USD
+Rolfson - Dickens,Finance,3,2019,annual,tax,2310352.99,UAH
+Huels Group,Retail,1,2020,annual,revenue,8014917.11,USD
+Gibson Mosciski and Spinka,Healthcare,1,2021,annual,tax,5306986.21,UAH
+Blanda Bartoletti and Simonis,Retail,1,2020,annual,operating_cost,5717324.13,EUR
+Crona Schulist and Block,Healthcare,4,2021,annual,operating_cost,4051158.48,USD
+Conroy - Funk,Tech,2,2020,quarterly,expenses,2757185.05,UAH
+Nader Abbott and Franey,Retail,4,2019,quarterly,revenue,9317697.66,USD
+Hoeger and Sons,Manufacturing,1,2018,quarterly,profit,3653493.66,UAH
+Gottlieb Inc,Healthcare,1,2023,annual,profit,4581971.64,UAH
+Lueilwitz LLC,Manufacturing,3,2024,annual,tax,2263112.05,UAH
+O'Keefe Koss and O'Reilly,Manufacturing,3,2023,quarterly,tax,4181962.29,EUR
+Koelpin Waters and Dietrich,Retail,4,2018,quarterly,operating_cost,1803200.13,USD
+Harber Schultz and O'Hara,Manufacturing,3,2022,quarterly,profit,2729900.38,UAH
+Morissette Runte and Deckow,Finance,1,2023,quarterly,expenses,1591659.68,UAH
+Kozey - Jerde,Finance,4,2021,quarterly,revenue,8909133.21,EUR
+Weissnat - Stiedemann,Tech,3,2018,annual,tax,5646512.22,UAH
+DuBuque LLC,Finance,4,2019,annual,expenses,270318.27,USD
+Rodriguez Cronin and Macejkovic,Healthcare,3,2020,annual,operating_cost,1668162.16,USD
+McCullough - Jaskolski,Finance,4,2020,quarterly,profit,5050864.48,UAH
+King - Leffler,Healthcare,3,2019,annual,profit,1150094.59,USD
+Hackett LLC,Tech,3,2018,quarterly,revenue,3519162.47,EUR
+Sauer Vandervort and Kutch,Manufacturing,3,2019,annual,tax,9309309.70,EUR
+Howell - Lakin,Tech,4,2022,quarterly,tax,9745345.81,UAH
+Reichert Wintheiser and Conroy,Finance,3,2018,annual,operating_cost,6220046.34,EUR
+Wintheiser - Mann,Manufacturing,1,2021,quarterly,profit,2652118.53,EUR
+Crona - Schulist,Tech,2,2021,quarterly,operating_cost,455559.16,EUR
+Heller - Nikolaus,Healthcare,1,2024,annual,tax,8950652.97,EUR
+Hickle - Waters,Retail,2,2020,annual,tax,9679378.17,USD
+Lind and Sons,Healthcare,2,2022,annual,expenses,4804955.27,EUR
+Goyette Group,Tech,1,2020,annual,operating_cost,6967967.41,UAH
+Douglas Group,Tech,2,2023,annual,operating_cost,3280731.70,UAH
+Hermiston and Sons,Retail,1,2020,annual,revenue,7491791.40,USD
+MacGyver Abshire and Reilly,Finance,4,2022,annual,revenue,3438265.27,USD
+Krajcik - Effertz,Finance,1,2023,quarterly,expenses,4542455.69,EUR
+Pagac Block and Mayer,Tech,4,2021,annual,profit,5585575.68,EUR
+Keebler - Dickens,Manufacturing,2,2018,annual,revenue,6224349.27,USD
+Dietrich LLC,Finance,2,2023,annual,operating_cost,8413364.79,EUR
+Runolfsdottir LLC,Retail,2,2021,annual,operating_cost,9031030.90,UAH
+Roberts Lang and Monahan,Tech,4,2021,quarterly,operating_cost,1841420.39,EUR
+Gusikowski and Sons,Tech,1,2023,quarterly,profit,2820948.47,USD
+Swaniawski Group,Finance,4,2019,quarterly,revenue,8282315.50,USD
+Orn Wuckert and Treutel,Healthcare,3,2024,quarterly,profit,5496817.09,USD
+Bednar Shields and Predovic,Healthcare,4,2024,annual,tax,488421.08,EUR
+Ondricka Romaguera and Kertzmann,Tech,1,2019,annual,profit,1491270.85,USD
+Witting - Willms,Manufacturing,2,2020,annual,expenses,9384984.35,USD
+Morar Group,Tech,2,2022,quarterly,profit,7818140.15,USD
+Cummings Inc,Tech,4,2019,annual,operating_cost,4650636.64,EUR
+Cartwright - Buckridge,Tech,1,2024,quarterly,expenses,9693096.82,USD
+White - Wiegand,Healthcare,1,2019,annual,tax,3346607.27,UAH
+Herman D'Amore and Morissette,Tech,1,2022,quarterly,operating_cost,3461407.93,USD
+Cormier - Baumbach,Manufacturing,3,2023,annual,expenses,1705259.36,UAH
+Zboncak and Sons,Manufacturing,3,2020,annual,profit,6829968.80,UAH
+Quigley Thiel and Metz,Retail,4,2023,quarterly,profit,8837044.44,USD
+Kub - Altenwerth,Tech,4,2024,annual,operating_cost,7458978.58,UAH
+Johns - Bayer,Tech,4,2018,quarterly,profit,6743810.53,USD
+Maggio - Pollich,Retail,3,2018,annual,operating_cost,2602857.68,USD
+Bahringer - Hilll,Healthcare,4,2022,quarterly,tax,5367254.15,USD
+Goodwin - Stark,Retail,4,2021,annual,expenses,7760844.77,USD
+Dooley Ratke and Tromp,Finance,1,2020,annual,expenses,7187765.66,USD
+O'Conner Runolfsson and Crooks,Healthcare,3,2019,annual,operating_cost,8134711.95,USD
+Sawayn Murphy and Monahan,Manufacturing,4,2020,annual,profit,4808969.74,USD
+Hauck - Jakubowski,Finance,2,2022,quarterly,revenue,1542485.16,EUR
+Hagenes Davis and Ledner,Tech,2,2023,annual,tax,9325128.71,USD
+Paucek Feest and Hayes,Manufacturing,4,2023,annual,tax,3327076.56,USD
+Sauer Cole and Hilpert,Finance,2,2018,quarterly,profit,2688635.65,USD
+Terry - Welch,Healthcare,4,2021,annual,profit,1987077.33,UAH
+Wiegand Blanda and Wunsch,Finance,3,2018,quarterly,expenses,3606028.64,UAH
+Koelpin Schroeder and Klocko,Tech,4,2024,quarterly,operating_cost,2940433.59,EUR
+Reichert - Bauch,Finance,3,2018,annual,operating_cost,5803125.23,USD
+Corkery - Kiehn,Tech,3,2021,annual,profit,9531867.00,EUR
+Brakus Mertz and Harvey,Healthcare,2,2021,quarterly,profit,822671.35,UAH
+Hagenes and Sons,Finance,1,2019,annual,profit,1995674.92,EUR
+Hansen Inc,Healthcare,1,2019,quarterly,tax,5763058.92,EUR
+Rodriguez - Reinger,Finance,1,2021,quarterly,expenses,9240622.73,UAH
+Pagac Schinner and Considine,Healthcare,3,2024,annual,tax,7816233.67,EUR
+Torp - Hudson,Tech,3,2024,quarterly,profit,6084989.30,USD
+Cummings Group,Tech,1,2024,quarterly,operating_cost,7816629.55,UAH
+Kertzmann LLC,Manufacturing,4,2024,annual,revenue,2287503.35,EUR
+Mohr - McClure,Retail,3,2020,annual,revenue,2710697.47,USD
+Stroman LLC,Retail,2,2020,quarterly,expenses,5788596.37,EUR
+Keeling - Grant,Retail,2,2022,quarterly,profit,3062805.92,EUR
+Johns Cummerata and DuBuque,Finance,2,2018,quarterly,operating_cost,9987970.68,EUR
+Gerhold Inc,Manufacturing,2,2024,quarterly,tax,1112307.23,USD
+Bartell and Sons,Manufacturing,2,2022,annual,expenses,4763791.10,EUR
+Hodkiewicz Group,Tech,1,2021,annual,tax,9397053.18,EUR
+Davis Prohaska and Hegmann,Manufacturing,4,2022,annual,revenue,7716987.55,USD
+Wisozk - Schimmel,Healthcare,3,2020,quarterly,profit,6590162.63,USD
+Fay Ankunding and Veum,Tech,1,2021,annual,operating_cost,5312546.15,USD
+Mills Johns and Bruen,Tech,1,2020,annual,operating_cost,8484428.21,USD
+Metz - Hackett,Finance,2,2019,quarterly,profit,2197763.25,USD
+Haag Group,Healthcare,3,2019,annual,tax,933319.92,USD
+Daniel Inc,Healthcare,2,2019,quarterly,profit,7258505.82,EUR
+Murphy - Leannon,Retail,4,2018,quarterly,operating_cost,5730251.12,UAH
+Trantow VonRueden and Upton,Retail,4,2018,quarterly,operating_cost,2698865.06,EUR
+Reichel - Rath,Tech,3,2024,quarterly,profit,612683.03,UAH
+Beer - Abshire,Finance,3,2024,annual,revenue,9292017.62,USD
+Nikolaus - Greenholt,Finance,3,2024,quarterly,profit,6952029.07,UAH
+Bosco - Bernier,Healthcare,4,2023,quarterly,tax,5647581.41,EUR
+Langosh Inc,Healthcare,4,2019,quarterly,expenses,9503267.86,USD
+Cassin LLC,Retail,3,2020,annual,profit,4501620.48,EUR
+Weber Tillman and Goyette,Manufacturing,3,2023,quarterly,tax,6590734.70,EUR
+Cartwright Zieme and Ward,Manufacturing,1,2024,annual,revenue,9962202.45,UAH
+Waters - Denesik,Retail,1,2018,quarterly,revenue,8381380.46,USD
+Koepp - Roob,Manufacturing,4,2020,quarterly,expenses,4390555.03,EUR
+Lockman Group,Finance,4,2021,annual,revenue,6256637.84,EUR
+Cruickshank Hilpert and Hyatt,Manufacturing,4,2021,annual,profit,34381.08,UAH
+Reichert Inc,Manufacturing,1,2023,quarterly,expenses,1131871.48,EUR
+Rosenbaum and Sons,Healthcare,4,2018,annual,operating_cost,9046651.88,EUR
+Bashirian Stanton and Powlowski,Tech,4,2023,quarterly,operating_cost,1296188.47,EUR
+Kuhic - Bernhard,Tech,1,2019,quarterly,expenses,7785775.04,UAH
+Corwin Rutherford and Marvin,Tech,1,2019,quarterly,profit,8021712.13,USD
+O'Reilly - Stiedemann,Healthcare,2,2023,annual,profit,653118.82,USD
+O'Kon Group,Manufacturing,1,2024,quarterly,expenses,7304987.65,UAH
+Batz - Kshlerin,Tech,2,2022,annual,profit,3742050.99,EUR
+Schmitt Inc,Manufacturing,1,2021,annual,operating_cost,4042705.01,USD
+Halvorson - Ferry,Tech,1,2018,quarterly,operating_cost,1429602.57,EUR
+Yost Harris and Goodwin,Healthcare,2,2023,quarterly,revenue,8914683.62,USD
+Wuckert Inc,Manufacturing,1,2022,quarterly,profit,2515870.37,UAH
+Schinner Inc,Tech,1,2022,quarterly,expenses,9220126.50,EUR
+Welch Kerluke and Hilpert,Finance,2,2018,quarterly,revenue,5056471.58,EUR
+Langosh LLC,Tech,3,2018,annual,tax,3504498.74,EUR
+Watsica - Bode,Tech,4,2021,quarterly,tax,4250318.37,USD
+Runolfsson LLC,Finance,1,2021,annual,expenses,6635726.35,UAH
+Wintheiser Inc,Tech,1,2023,annual,profit,2471798.29,EUR
+Beahan and Sons,Finance,2,2018,annual,expenses,3418502.11,USD
+Bartoletti - Jacobs,Healthcare,2,2024,quarterly,profit,1204480.59,USD
+Reynolds Inc,Healthcare,2,2019,quarterly,revenue,8219024.76,EUR
+Blick Mosciski and Shields,Healthcare,1,2022,annual,expenses,9603018.75,UAH
+Purdy - Labadie,Healthcare,3,2019,quarterly,operating_cost,221830.41,EUR
+Welch - Daniel,Manufacturing,3,2021,quarterly,expenses,7644809.90,EUR
+Koepp Douglas and Kshlerin,Tech,1,2018,quarterly,expenses,5792861.77,UAH
+Kreiger - Collier,Retail,4,2021,quarterly,expenses,5839444.44,USD
+Zboncak - Bartell,Healthcare,3,2020,quarterly,revenue,8965558.35,EUR
+Gibson and Sons,Healthcare,1,2023,quarterly,revenue,8841917.40,EUR
+Wunsch Group,Retail,4,2022,annual,profit,5808794.81,EUR
+Dach Runolfsdottir and Hintz,Retail,1,2019,annual,revenue,7177121.02,UAH
+Ryan and Sons,Finance,3,2020,quarterly,operating_cost,6876899.55,UAH
+Krajcik Group,Healthcare,2,2022,quarterly,expenses,3432753.12,UAH
+Beer LLC,Healthcare,4,2023,quarterly,operating_cost,8711947.76,EUR
+Kovacek Inc,Finance,2,2018,quarterly,operating_cost,1757671.76,EUR
+Moen MacGyver and Berge,Retail,4,2021,annual,profit,750190.74,EUR
+Franecki and Sons,Healthcare,3,2020,annual,revenue,5598696.60,EUR
+Deckow Inc,Healthcare,1,2020,quarterly,operating_cost,6606090.25,USD
+Effertz Group,Healthcare,3,2020,quarterly,revenue,9969300.72,UAH
+Abernathy Inc,Finance,3,2020,annual,expenses,3170772.31,UAH
+Wiegand Auer and Stanton,Finance,2,2018,annual,tax,1571285.02,EUR
+Anderson Group,Manufacturing,3,2023,quarterly,profit,9323776.37,UAH
+Romaguera Inc,Healthcare,1,2021,annual,revenue,3085601.18,EUR
+Abernathy Vandervort and O'Kon,Manufacturing,4,2019,annual,operating_cost,9731047.41,USD
+Osinski - Renner,Retail,2,2023,quarterly,revenue,8654179.41,UAH
+Romaguera LLC,Manufacturing,3,2020,annual,profit,3175832.89,USD
+Hartmann Brakus and O'Keefe,Finance,2,2020,annual,tax,9439270.25,EUR
+Funk Group,Healthcare,4,2023,annual,expenses,9151460.63,USD
+Stamm Group,Healthcare,3,2022,quarterly,expenses,2784937.06,UAH
+Boyle - Wyman,Manufacturing,4,2023,quarterly,profit,4192478.21,EUR
+Hermiston Collins and DuBuque,Retail,2,2020,annual,revenue,2552694.57,UAH
+Lind Wolf and Ferry,Tech,2,2020,annual,profit,1041905.88,UAH
+Harber - Bode,Finance,4,2022,quarterly,operating_cost,6951596.65,UAH
+Homenick Ledner and Gutkowski,Tech,2,2021,quarterly,tax,8163784.00,USD
+Schmeler LLC,Tech,4,2018,quarterly,profit,157005.18,EUR
+Wehner Gutkowski and Kuhn,Tech,4,2020,quarterly,operating_cost,211172.97,USD
+Kautzer Crist and Kihn,Finance,4,2019,quarterly,revenue,6643500.15,EUR
+Hickle Group,Healthcare,1,2021,annual,revenue,2742935.49,UAH
+Bauch - O'Keefe,Healthcare,3,2020,annual,profit,9428238.53,UAH
+Dare - Moore,Finance,1,2018,annual,revenue,418497.18,UAH
+Rodriguez - Nitzsche,Healthcare,1,2022,annual,expenses,7251537.83,USD
+Purdy - Shanahan,Retail,1,2020,annual,tax,6538359.47,UAH
+Stroman - Pollich,Finance,4,2018,quarterly,revenue,3349068.77,USD
+Ullrich O'Hara and Rohan,Healthcare,2,2022,quarterly,operating_cost,7156386.39,UAH
+Purdy Waelchi and Dickinson,Healthcare,3,2024,quarterly,operating_cost,4784717.28,EUR
+Runolfsson LLC,Retail,2,2022,annual,tax,1080115.00,UAH
+Kreiger - Gutmann,Tech,2,2024,annual,profit,8030889.87,USD
+Lakin - Parker,Tech,4,2023,quarterly,profit,310167.27,USD
+Gleason - Koelpin,Healthcare,3,2020,annual,tax,5618606.66,UAH
+Wilkinson - Thiel,Finance,1,2023,quarterly,operating_cost,8403161.02,EUR
+Prohaska - Sawayn,Tech,1,2021,annual,expenses,5416366.88,USD
+Wintheiser and Sons,Tech,1,2024,annual,operating_cost,1027689.29,UAH
+Nienow Hackett and Schuster,Manufacturing,1,2021,quarterly,tax,5552027.72,USD
+Doyle - Wyman,Healthcare,1,2019,quarterly,profit,3655245.71,EUR
+Kshlerin Inc,Tech,1,2021,annual,tax,2759623.22,EUR
+Rodriguez Daugherty and Balistreri,Finance,2,2022,quarterly,profit,2410588.09,UAH
+Sanford Inc,Finance,4,2022,annual,operating_cost,3376963.06,USD
+Williamson - Goodwin,Tech,2,2024,annual,expenses,9332594.40,EUR
+Wunsch - Kling,Finance,3,2019,annual,operating_cost,4209776.36,USD
+Daniel Inc,Tech,2,2021,quarterly,revenue,9465549.59,UAH
+Heaney Kilback and Beier,Healthcare,1,2020,annual,operating_cost,9493002.71,EUR
+Hudson LLC,Retail,1,2020,annual,expenses,7558046.67,EUR
+Renner - Lind,Retail,2,2022,quarterly,operating_cost,9045756.08,UAH
+Schumm LLC,Finance,1,2021,annual,expenses,3212221.57,UAH
+Farrell Roberts and Rogahn,Retail,2,2021,quarterly,expenses,4125012.52,EUR
+Cormier Denesik and Cummings,Manufacturing,3,2023,annual,expenses,8463184.36,USD
+Mills LLC,Manufacturing,4,2021,quarterly,operating_cost,7218470.85,EUR
+Pouros Ferry and Balistreri,Finance,3,2023,annual,tax,494190.66,UAH
+McDermott - Pfeffer,Manufacturing,3,2022,quarterly,operating_cost,962812.93,UAH
+Stokes Group,Manufacturing,2,2019,annual,tax,4947514.00,USD
+Douglas Prohaska and Rice,Healthcare,3,2018,annual,operating_cost,4984713.57,EUR
+Bruen Hackett and Fay,Retail,1,2021,quarterly,revenue,4876336.51,USD
+Sipes - Prohaska,Tech,2,2020,annual,profit,9526176.71,USD
+Ward and Sons,Retail,3,2018,annual,tax,4445739.44,UAH
+Gottlieb Inc,Finance,4,2022,annual,profit,6441244.90,EUR
+Wisozk Gibson and Durgan,Manufacturing,1,2018,annual,expenses,9527954.51,EUR
+Beatty Group,Manufacturing,1,2020,quarterly,expenses,1275016.76,UAH
+Morissette LLC,Finance,4,2023,quarterly,expenses,951805.63,EUR
+Lehner Nicolas and Wunsch,Manufacturing,4,2019,annual,revenue,8294078.23,EUR
+Romaguera Kulas and Bartoletti,Retail,1,2023,annual,operating_cost,389282.95,EUR
+Rolfson - Hahn,Manufacturing,3,2020,quarterly,expenses,1310101.27,UAH
+Metz Group,Tech,1,2024,annual,operating_cost,4317109.21,USD
+Gleason - VonRueden,Tech,4,2023,quarterly,profit,7399845.52,EUR
+Koelpin Group,Retail,4,2018,quarterly,profit,8340686.04,USD
+Terry Inc,Manufacturing,2,2021,quarterly,tax,7206478.96,USD
+Kemmer Witting and Harber,Tech,1,2023,quarterly,operating_cost,8014120.76,USD
+Feest - Powlowski,Retail,3,2024,quarterly,operating_cost,5987990.74,EUR
+Dietrich - Zboncak,Tech,4,2019,quarterly,tax,9416103.14,EUR
+Wehner - Macejkovic,Retail,3,2024,quarterly,revenue,6520690.96,EUR
+Denesik Labadie and Hudson,Tech,1,2019,annual,tax,7860910.01,USD
+Trantow - Moore,Retail,3,2021,annual,operating_cost,7716444.00,EUR
+Mayer - Ondricka,Finance,2,2024,quarterly,tax,5646247.10,EUR
+Bogan and Sons,Finance,3,2022,annual,revenue,565515.50,UAH
+Huel Bins and Okuneva,Manufacturing,2,2020,annual,revenue,8598407.07,EUR
+Lehner and Sons,Retail,2,2022,quarterly,expenses,8523205.18,EUR
+Hansen Barton and Beier,Retail,4,2023,quarterly,expenses,4140234.22,UAH
+Kassulke Champlin and Macejkovic,Manufacturing,4,2024,quarterly,operating_cost,2572498.64,USD
+Erdman Wiegand and Macejkovic,Tech,4,2023,quarterly,profit,498719.45,USD
+Hickle Inc,Healthcare,3,2024,annual,tax,7216859.56,UAH
+Barrows Inc,Finance,1,2020,quarterly,tax,2499740.98,USD
+Cormier - O'Kon,Manufacturing,3,2018,quarterly,tax,8585194.67,USD
+Hudson - Hermiston,Healthcare,1,2019,quarterly,revenue,9509493.00,UAH
+Stokes - Kessler,Retail,1,2021,quarterly,tax,6566430.27,EUR
+Little - Miller,Tech,1,2021,annual,tax,2337737.29,UAH
+Bode Group,Manufacturing,2,2022,annual,expenses,9433092.20,UAH
+Corwin - Farrell,Manufacturing,1,2021,annual,revenue,4785736.40,EUR
+Swift LLC,Retail,1,2018,quarterly,revenue,3137729.93,EUR
+Harvey Ankunding and Pfannerstill,Finance,3,2018,quarterly,revenue,4956357.50,EUR
+Ferry - Conroy,Healthcare,3,2021,annual,tax,4630932.25,UAH
+O'Conner LLC,Tech,2,2022,quarterly,tax,792468.25,UAH
+Jones LLC,Finance,2,2023,annual,expenses,165191.08,UAH
+McKenzie - Bailey,Manufacturing,1,2023,annual,profit,7749014.09,EUR
+MacGyver Mayer and Zemlak,Healthcare,1,2021,annual,revenue,8576193.87,UAH
+Wehner LLC,Retail,1,2023,annual,profit,5030724.51,EUR
+Fadel Gorczany and White,Manufacturing,4,2019,annual,revenue,8219787.81,EUR
+Fay Swaniawski and Marvin,Finance,4,2024,quarterly,expenses,112906.95,USD
+Prohaska LLC,Healthcare,4,2024,quarterly,operating_cost,6084893.25,USD
+Baumbach - Goldner,Finance,2,2021,quarterly,tax,9515906.55,EUR
+Aufderhar Inc,Finance,2,2024,annual,profit,9588278.33,UAH
+Kshlerin Group,Retail,3,2024,annual,expenses,7111467.43,USD
+Stehr Effertz and Schultz,Manufacturing,4,2022,quarterly,operating_cost,6310895.46,EUR
+Harris - Thiel,Finance,3,2018,quarterly,revenue,1141250.47,EUR
+Haley Mante and Nader,Finance,3,2021,quarterly,tax,2233084.34,UAH
+Cummings and Sons,Manufacturing,2,2020,annual,profit,3685648.06,UAH
+Armstrong Bradtke and Koss,Healthcare,3,2023,annual,expenses,3745052.65,UAH
+Padberg LLC,Retail,2,2019,quarterly,operating_cost,6383857.48,UAH
+Ledner O'Conner and Kulas,Finance,4,2022,annual,operating_cost,5474117.47,USD
+Schiller - Davis,Healthcare,2,2018,annual,expenses,571582.48,USD
+Rippin - Nolan,Manufacturing,1,2024,annual,revenue,720246.75,USD
+Brakus Inc,Retail,4,2020,annual,tax,8997157.16,UAH
+Deckow Inc,Manufacturing,3,2022,quarterly,operating_cost,5326484.43,UAH
+Bartoletti Fisher and Larkin,Finance,3,2022,annual,revenue,1416335.88,USD
+Huels - Borer,Healthcare,1,2023,quarterly,revenue,9586893.06,UAH
+Moore Raynor and Hettinger,Finance,1,2023,quarterly,operating_cost,3544787.53,EUR
+Dickinson - Littel,Healthcare,3,2020,annual,expenses,5951802.13,EUR
+Smith Cormier and Bergnaum,Finance,2,2018,annual,profit,2770178.14,EUR
+Dibbert - Lindgren,Healthcare,3,2023,annual,operating_cost,1493361.67,USD
+Effertz - Waelchi,Retail,4,2023,quarterly,operating_cost,1637339.43,USD
+Waters LLC,Retail,3,2021,quarterly,expenses,4131641.07,EUR
+Ryan - Koch,Tech,4,2018,annual,profit,4958119.18,UAH
+Nolan Ziemann and Sauer,Healthcare,4,2021,quarterly,tax,5299051.33,UAH
+Rice Group,Manufacturing,4,2019,quarterly,profit,6607540.20,UAH
+Runolfsdottir - Jaskolski,Healthcare,3,2021,quarterly,revenue,656867.91,UAH
+Green Group,Healthcare,3,2020,quarterly,operating_cost,8827289.56,UAH
+Keeling and Sons,Healthcare,3,2019,quarterly,profit,6949128.23,EUR
+Johns Jast and Connelly,Manufacturing,4,2021,annual,tax,3609961.30,USD
+Abshire - Beatty,Finance,3,2021,quarterly,profit,7011530.18,EUR
+Goodwin and Sons,Manufacturing,1,2021,quarterly,revenue,9477409.13,UAH
+Kiehn and Sons,Finance,4,2018,quarterly,expenses,6934066.04,USD
+Ankunding - Marks,Retail,4,2022,annual,operating_cost,5085991.95,USD
+Watsica Becker and O'Kon,Healthcare,2,2023,annual,profit,630192.67,EUR
+Olson - Hilll,Manufacturing,1,2024,annual,revenue,2970941.74,UAH
+Bergnaum - Nienow,Retail,1,2018,quarterly,operating_cost,8016676.45,EUR
+Herman Bruen and Weissnat,Finance,2,2023,quarterly,expenses,1851373.62,USD
+Schuppe - Grimes,Retail,2,2020,quarterly,tax,4685774.05,USD
+Hudson - Green,Finance,4,2020,annual,profit,5461907.82,EUR
+Champlin - Streich,Retail,4,2020,annual,tax,5690331.56,EUR
+Connelly Huel and Mosciski,Tech,1,2024,quarterly,expenses,21766.51,UAH
+Braun Ankunding and Mraz,Retail,4,2020,quarterly,expenses,5428070.18,UAH
+Larkin Rogahn and Cassin,Manufacturing,3,2021,quarterly,operating_cost,2928985.18,UAH
+Kuvalis Nolan and VonRueden,Tech,2,2020,quarterly,profit,5057988.50,EUR
+Yost Haley and Pagac,Healthcare,2,2020,quarterly,profit,9845914.75,UAH
+Shanahan - Kessler,Tech,3,2024,annual,profit,7290897.39,EUR
+Stark Goodwin and Hoeger,Healthcare,2,2024,quarterly,expenses,344858.36,UAH
+Hintz Christiansen and Waters,Finance,1,2022,annual,expenses,1192815.33,UAH
+Cole Corkery and Emmerich,Manufacturing,2,2021,annual,tax,4536664.72,USD
+Towne Schaden and Grady,Healthcare,1,2022,annual,profit,6561575.82,USD
+Schroeder Inc,Finance,3,2018,annual,expenses,3080464.44,UAH
+Osinski - Ruecker,Manufacturing,3,2020,annual,operating_cost,4757154.37,UAH
+Cormier - Prosacco,Manufacturing,3,2018,annual,revenue,8113886.71,UAH
+Grady Hickle and Fritsch,Tech,1,2024,annual,operating_cost,8994777.86,UAH
+Kling LLC,Finance,3,2024,annual,revenue,6418024.81,USD
+Harber Yost and Dooley,Manufacturing,1,2022,quarterly,revenue,1945700.02,EUR
+Huel - Bartoletti,Healthcare,1,2023,quarterly,tax,5813661.79,USD
+Gleason Kshlerin and Skiles,Healthcare,2,2024,quarterly,profit,5030910.37,USD
+Muller Zulauf and Price,Manufacturing,1,2024,annual,operating_cost,9326128.48,USD
+Witting LLC,Retail,4,2020,annual,operating_cost,66426.19,UAH
+Crooks - Adams,Retail,4,2022,quarterly,revenue,1845681.56,USD
+Leffler Runolfsson and Bednar,Finance,1,2022,quarterly,tax,490120.22,EUR
+Toy Mitchell and Rosenbaum,Finance,2,2023,annual,revenue,4776705.80,EUR
+Muller Boehm and Spencer,Tech,3,2022,annual,expenses,8996472.45,USD
+Lindgren Brakus and Emard,Finance,4,2018,annual,profit,2829464.55,UAH
+Spinka - McClure,Healthcare,1,2023,annual,expenses,1684787.65,UAH
+Braun - White,Manufacturing,4,2024,quarterly,revenue,7637094.35,USD
+VonRueden Group,Finance,2,2020,quarterly,expenses,7620959.40,USD
+Lehner Monahan and Kunze,Tech,3,2023,quarterly,expenses,221537.43,USD
+O'Keefe - Zieme,Healthcare,2,2019,quarterly,expenses,3856137.32,UAH
+Reichert Group,Tech,3,2021,annual,profit,1249158.32,UAH
+West - Denesik,Finance,2,2021,quarterly,tax,882388.30,EUR
+McKenzie Schmitt and Wolff,Manufacturing,2,2022,annual,expenses,588895.54,EUR
+Dibbert Berge and Renner,Tech,2,2021,quarterly,profit,9902315.78,UAH
+Brekke Windler and Howell,Manufacturing,3,2023,annual,operating_cost,7402128.39,EUR
+D'Amore - Waters,Healthcare,1,2024,annual,tax,2177705.83,USD
+Ullrich - Keebler,Retail,2,2021,annual,profit,9829998.46,EUR
+Sporer Altenwerth and Davis,Tech,3,2023,quarterly,tax,1474597.46,USD
+Willms Group,Healthcare,2,2024,quarterly,profit,3034383.85,EUR
+Lang and Sons,Retail,2,2022,quarterly,profit,2995515.16,UAH
+Will Inc,Healthcare,2,2022,annual,tax,7776939.52,UAH
+Hoppe Mertz and Grimes,Healthcare,2,2024,quarterly,profit,5771551.36,EUR
+Jast - Stehr,Retail,1,2022,annual,expenses,5119004.76,UAH
+Pollich Brown and Cremin,Tech,2,2022,annual,operating_cost,3713668.06,USD
+Watsica - Adams,Tech,4,2019,quarterly,expenses,5111936.23,USD
+Klocko Renner and Sanford,Retail,4,2021,quarterly,operating_cost,98537.72,UAH
+Adams Torp and Schinner,Finance,2,2024,annual,profit,6741318.66,USD
+Moore Waelchi and Rempel,Retail,3,2023,quarterly,operating_cost,2875388.93,EUR
+Simonis Inc,Finance,2,2023,annual,expenses,662492.27,USD
+Nienow Ondricka and Kemmer,Finance,3,2018,quarterly,revenue,265882.92,EUR
+Stoltenberg LLC,Healthcare,4,2020,annual,profit,5739940.26,UAH
+Stracke and Sons,Manufacturing,1,2019,quarterly,tax,9360675.08,USD
+Pfannerstill Cummings and Schmeler,Finance,1,2022,annual,expenses,1076383.13,UAH
+Sauer Mayert and Lueilwitz,Healthcare,4,2019,annual,tax,9180132.84,UAH
+Koelpin Group,Healthcare,2,2018,annual,profit,8351434.88,UAH
+Zboncak Inc,Tech,3,2020,annual,revenue,2483954.26,UAH
+Reynolds and Sons,Finance,1,2024,quarterly,operating_cost,2071567.16,USD
+Hessel Koelpin and Sanford,Retail,1,2019,annual,tax,8732047.23,EUR
+Kshlerin - Wiegand,Healthcare,3,2023,quarterly,profit,8076102.44,USD
+Schulist Crooks and Wolf,Finance,4,2023,quarterly,expenses,1026129.47,USD
+Streich LLC,Healthcare,2,2022,quarterly,profit,7242805.56,UAH
+Reynolds - Pagac,Healthcare,2,2023,annual,tax,9105557.18,EUR
+Volkman and Sons,Retail,4,2022,annual,profit,7434541.51,UAH
+Hermiston Tillman and Beahan,Tech,1,2019,annual,expenses,4756513.73,UAH
+Hauck Krajcik and Kunde,Healthcare,4,2021,annual,expenses,7361949.20,EUR
+Weber - Powlowski,Manufacturing,3,2018,annual,operating_cost,7637496.20,UAH
+Kertzmann Group,Manufacturing,2,2018,annual,tax,834927.97,USD
+Mayer LLC,Tech,4,2023,quarterly,expenses,6953410.49,UAH
+McLaughlin Corwin and Jacobs,Finance,3,2024,annual,profit,8226153.53,EUR
+Renner - Walsh,Tech,3,2021,quarterly,tax,7429600.76,UAH
+Larkin - Hermann,Retail,1,2024,quarterly,tax,9119624.02,EUR
+Wiza and Sons,Retail,2,2024,annual,expenses,1451724.62,EUR
+Gerlach - Oberbrunner,Manufacturing,2,2018,quarterly,profit,3441701.23,USD
+Lubowitz Crooks and Kertzmann,Healthcare,3,2020,quarterly,profit,4425949.45,UAH
+Cummings Kunde and Hintz,Finance,4,2019,quarterly,operating_cost,6597872.50,UAH
+Christiansen Inc,Manufacturing,4,2024,annual,expenses,2308125.41,UAH
+Flatley Schulist and Prosacco,Healthcare,4,2019,quarterly,operating_cost,1028657.11,USD
+Macejkovic - Schiller,Tech,4,2023,quarterly,operating_cost,7030464.92,USD
+Harvey Lowe and Armstrong,Manufacturing,1,2021,annual,operating_cost,8864875.65,UAH
+Mayer Inc,Retail,4,2024,annual,profit,9120386.87,EUR
+Nienow Moore and Bednar,Healthcare,4,2018,annual,revenue,7750190.37,USD
+VonRueden - Grady,Finance,4,2022,annual,revenue,7796585.13,USD
+Johnston and Sons,Tech,4,2018,quarterly,profit,8061414.42,UAH
+Fahey Kilback and DuBuque,Healthcare,3,2020,quarterly,tax,3500743.74,EUR
+Bechtelar Inc,Finance,2,2018,annual,tax,7001528.04,UAH
+Kreiger - Brown,Retail,3,2021,annual,expenses,2842337.63,UAH
+Davis - Hamill,Manufacturing,3,2024,quarterly,operating_cost,3471002.04,UAH
+Frami - Cruickshank,Finance,3,2019,quarterly,tax,508259.68,USD
+Abernathy - Johnston,Manufacturing,3,2018,annual,expenses,9915840.27,EUR
+Rogahn Welch and Leuschke,Healthcare,2,2022,quarterly,operating_cost,763282.33,EUR
+Harris Steuber and Pouros,Manufacturing,1,2022,quarterly,profit,9728873.93,EUR
+Breitenberg Inc,Retail,2,2021,annual,expenses,3819763.11,UAH
+Parisian Inc,Manufacturing,3,2020,quarterly,profit,7539708.46,EUR
+Donnelly - Stoltenberg,Tech,4,2024,annual,operating_cost,2509217.20,USD
+Davis - Littel,Tech,1,2022,quarterly,tax,8791600.14,EUR
+White - Shanahan,Finance,1,2023,quarterly,revenue,8569192.31,UAH
+Jacobs Corwin and Yost,Retail,3,2024,quarterly,profit,9506939.53,USD
+Hodkiewicz Paucek and Murray,Finance,2,2024,quarterly,operating_cost,4655910.26,USD
+Fadel - Grady,Healthcare,4,2018,annual,tax,4344424.59,EUR
+Olson Heller and Denesik,Tech,3,2021,annual,tax,4680099.31,UAH
+Hamill Inc,Finance,4,2019,quarterly,expenses,9895070.79,EUR
+Fritsch Gleichner and Harris,Manufacturing,4,2021,annual,profit,6008850.25,EUR
+Connelly - Adams,Finance,3,2018,annual,expenses,8184827.80,UAH
+Lockman - O'Conner,Manufacturing,2,2022,annual,tax,7329623.17,UAH
+Stamm Breitenberg and Steuber,Tech,4,2021,quarterly,tax,488890.72,USD
+Brown Johnson and Predovic,Retail,1,2018,quarterly,operating_cost,2386642.86,EUR
+Boehm - Kuhn,Manufacturing,4,2024,annual,revenue,3559368.04,EUR
+Torp Runte and Nienow,Manufacturing,1,2021,quarterly,expenses,8326721.28,USD
+Bechtelar Inc,Manufacturing,3,2018,annual,expenses,2029409.41,EUR
+Ruecker - Feeney,Finance,1,2024,quarterly,profit,7485055.29,EUR
+Daugherty - Graham,Retail,1,2021,annual,operating_cost,4347387.03,USD
+Shields Cremin and Smitham,Tech,2,2019,quarterly,tax,1247455.62,USD
+Walsh Group,Manufacturing,1,2019,quarterly,profit,7446066.08,UAH
+Brown DuBuque and Brekke,Healthcare,3,2021,annual,operating_cost,8753310.11,UAH
+Green Langworth and Mayer,Finance,3,2024,annual,expenses,6427991.05,USD
+Deckow Block and Walsh,Finance,2,2024,quarterly,tax,965128.90,EUR
+Kub Group,Manufacturing,2,2024,quarterly,profit,2565460.68,EUR
+Ritchie and Sons,Manufacturing,3,2019,annual,operating_cost,9861468.01,EUR
+Adams Spencer and Altenwerth,Healthcare,2,2021,quarterly,profit,5717084.36,UAH
+Green - Kutch,Tech,1,2020,quarterly,revenue,2142370.02,USD
+White - Krajcik,Manufacturing,4,2018,annual,tax,9669272.68,USD
+Yost - Schaefer,Retail,2,2022,annual,operating_cost,1305845.74,UAH
+McClure Group,Manufacturing,1,2023,annual,expenses,9515751.82,EUR
+Denesik - Skiles,Manufacturing,1,2021,annual,revenue,8771928.00,USD
+Braun Inc,Tech,4,2022,annual,tax,6869053.52,EUR
+Nikolaus LLC,Retail,4,2024,quarterly,tax,3877312.69,USD
+Von - King,Finance,3,2019,annual,operating_cost,5580079.16,UAH
+Mohr - Zboncak,Healthcare,1,2018,quarterly,revenue,9776770.57,USD
+Smitham Predovic and Crooks,Healthcare,3,2024,annual,revenue,5704881.57,USD
+Wuckert Buckridge and Jacobson,Finance,2,2022,annual,operating_cost,711364.88,USD
+Swaniawski Pfannerstill and Deckow,Finance,2,2019,annual,operating_cost,9107477.97,EUR
+Bednar and Sons,Tech,4,2023,annual,expenses,629867.53,UAH
+Ryan LLC,Manufacturing,3,2022,annual,tax,2293906.91,UAH
+Ziemann Inc,Retail,2,2022,quarterly,profit,2876230.10,USD
+Lang - Rice,Retail,3,2019,quarterly,profit,3519761.20,UAH
+Howe - Mertz,Retail,3,2024,annual,revenue,337151.60,UAH
+O'Connell - Daugherty,Tech,1,2021,quarterly,expenses,5277514.25,EUR
+Willms LLC,Healthcare,1,2023,annual,tax,3070754.05,UAH
+Crooks - Cole,Manufacturing,3,2019,annual,operating_cost,414754.00,UAH
+Kassulke Wilderman and Bogan,Manufacturing,4,2019,annual,revenue,3683686.10,USD
+Cruickshank Adams and Breitenberg,Manufacturing,4,2020,quarterly,profit,7644186.72,EUR
+Pollich Group,Tech,3,2024,annual,operating_cost,4422774.88,EUR
+Pollich - Anderson,Retail,1,2021,quarterly,tax,432184.72,UAH
+Kirlin - Treutel,Tech,2,2020,quarterly,tax,8990115.95,USD
+Wilkinson Cummings and Bergnaum,Finance,3,2022,annual,revenue,9647750.78,EUR
+Hirthe Inc,Finance,2,2019,quarterly,expenses,3732587.54,USD
+Zieme - Ullrich,Tech,3,2024,quarterly,expenses,1693718.91,USD
+Graham - Graham,Finance,3,2022,annual,operating_cost,2041625.32,UAH
+Zboncak Inc,Retail,1,2020,quarterly,expenses,6072301.61,USD
+Kertzmann - Wuckert,Manufacturing,3,2024,quarterly,revenue,2101650.19,USD
+Hamill and Sons,Retail,4,2020,quarterly,operating_cost,6949871.72,UAH
+Treutel - Shanahan,Finance,2,2019,quarterly,profit,3992985.38,EUR
+Waters - Kohler,Tech,2,2022,annual,revenue,3899532.75,UAH
+Goodwin - Abshire,Tech,2,2022,annual,operating_cost,9239126.46,UAH
+Brekke Wilkinson and Gerlach,Tech,2,2023,quarterly,profit,4166051.34,UAH
+Collins - Toy,Healthcare,3,2019,annual,operating_cost,1045828.68,USD
+Kub - Goyette,Healthcare,1,2021,annual,revenue,5236411.05,EUR
+Upton - Vandervort,Tech,2,2019,annual,operating_cost,193818.42,UAH
+Bechtelar LLC,Manufacturing,1,2018,quarterly,expenses,1311796.57,USD
+Welch Group,Tech,4,2019,quarterly,tax,5166995.45,EUR
+Friesen O'Hara and Kassulke,Finance,1,2022,quarterly,operating_cost,9201112.81,UAH
+Pfannerstill Inc,Tech,3,2020,quarterly,tax,4684431.60,EUR
+Wisoky Vandervort and O'Conner,Tech,3,2021,annual,expenses,2659234.27,USD
+Kautzer LLC,Healthcare,1,2022,annual,revenue,1175173.55,EUR
+Kuhic Grady and Heathcote,Manufacturing,3,2021,quarterly,revenue,9050404.45,USD
+Feest - Hoppe,Manufacturing,3,2019,quarterly,revenue,9834578.54,EUR
+Marks - Gerhold,Finance,2,2023,quarterly,tax,1869662.02,UAH
+Schmitt Wolf and Schumm,Finance,2,2019,annual,tax,6977136.79,UAH
+Sawayn Group,Manufacturing,3,2024,quarterly,operating_cost,9687152.27,UAH
+Reichel Inc,Finance,2,2023,annual,operating_cost,2680168.31,UAH
+Fisher Group,Tech,1,2019,annual,operating_cost,7470704.97,USD
+Balistreri - Stroman,Tech,4,2019,annual,revenue,6796403.93,UAH
+Corwin Group,Manufacturing,1,2020,annual,tax,5399791.92,EUR
+O'Reilly and Sons,Manufacturing,2,2022,quarterly,profit,4493902.65,USD
+Bode - Hettinger,Finance,3,2024,quarterly,revenue,698957.03,EUR
+Stehr Lang and Langworth,Tech,1,2020,quarterly,revenue,446882.68,USD
+Bechtelar - DuBuque,Tech,2,2021,annual,tax,2692307.49,USD
+Hodkiewicz - Murray,Manufacturing,4,2021,annual,profit,6944739.14,USD
+Blanda Miller and Reilly,Manufacturing,2,2022,quarterly,tax,6225867.08,EUR
+Kozey - VonRueden,Retail,1,2022,annual,operating_cost,9916706.33,UAH
+Rath and Sons,Manufacturing,3,2019,quarterly,profit,5060086.75,USD
+Greenholt Group,Finance,4,2018,quarterly,tax,5148153.18,USD
+Stokes Inc,Healthcare,3,2023,quarterly,tax,7382655.99,UAH
+Walker Sanford and Buckridge,Finance,4,2019,annual,revenue,8619007.78,USD
+Bashirian - Muller,Manufacturing,3,2018,quarterly,profit,8232386.69,UAH
+Pfannerstill - Jacobi,Manufacturing,1,2020,annual,profit,4894755.37,EUR
+Mosciski - Mante,Finance,4,2018,annual,operating_cost,9957918.04,EUR
+Bogisich and Sons,Finance,1,2022,quarterly,expenses,6673506.95,EUR
+Stark - Barton,Manufacturing,3,2023,quarterly,tax,7935490.84,USD
+Connelly LLC,Retail,2,2022,annual,revenue,2281747.56,UAH
+Schmitt Inc,Healthcare,4,2018,annual,expenses,6358616.69,USD
+Dietrich and Sons,Manufacturing,2,2023,quarterly,profit,3423736.22,USD
+Sporer - Hyatt,Tech,2,2023,quarterly,profit,5328916.84,USD
+Hermann Inc,Tech,1,2018,annual,operating_cost,2103911.51,USD
+Monahan Douglas and McGlynn,Healthcare,1,2018,annual,revenue,4720786.85,EUR
+Wunsch Group,Finance,1,2019,annual,revenue,3001535.49,EUR
+Labadie - Rath,Manufacturing,2,2022,quarterly,tax,9306218.02,EUR
+Kihn LLC,Retail,2,2018,annual,tax,9313554.88,EUR
+Wehner LLC,Manufacturing,2,2018,quarterly,profit,6021365.08,USD
+Marks LLC,Tech,2,2024,quarterly,revenue,7418188.55,EUR
+Haag Emmerich and Howell,Tech,2,2024,annual,tax,9655716.39,UAH
+Keeling Collier and Torphy,Tech,4,2024,quarterly,revenue,9305789.31,EUR
+Stiedemann - Crooks,Retail,2,2019,annual,profit,6037811.58,USD
+Towne Inc,Healthcare,2,2022,annual,expenses,6047096.93,EUR
+Schamberger Group,Tech,2,2023,annual,tax,6060637.58,EUR
+Tromp - Jacobson,Manufacturing,4,2019,quarterly,revenue,2510236.39,USD
+Berge Dach and Gerlach,Retail,3,2023,annual,operating_cost,3378217.66,EUR
+Price Inc,Healthcare,4,2019,annual,tax,4603926.90,EUR
+Witting - Armstrong,Finance,4,2023,quarterly,tax,5252928.65,EUR
+Jacobs Inc,Retail,1,2023,quarterly,tax,3910122.93,UAH
+Stroman - Gislason,Finance,4,2020,annual,operating_cost,811906.67,EUR
+Terry Inc,Manufacturing,2,2018,quarterly,profit,8474242.50,UAH
+Runolfsdottir Dach and Raynor,Finance,1,2022,annual,tax,7899828.17,UAH
+Kohler Group,Finance,2,2022,quarterly,tax,5965814.22,USD
+Bayer - Becker,Healthcare,2,2019,quarterly,expenses,7913323.10,UAH
+Lueilwitz - Kassulke,Finance,3,2023,quarterly,expenses,8897489.96,EUR
+Kessler Group,Finance,1,2024,annual,profit,503069.53,USD
+Hagenes - Yundt,Manufacturing,3,2020,quarterly,expenses,3302245.59,EUR
+Ortiz - Wiegand,Retail,1,2019,quarterly,operating_cost,9305896.31,UAH
+Padberg and Sons,Retail,2,2022,quarterly,expenses,5800745.11,USD
+Marks - Weissnat,Finance,4,2020,quarterly,tax,944107.94,EUR
+Brown Kozey and Wilderman,Healthcare,1,2018,annual,tax,3018801.29,UAH
+Torphy - Mertz,Tech,4,2019,annual,profit,9301922.48,UAH
+Roob - Macejkovic,Finance,3,2018,annual,profit,2278645.98,UAH
+Stiedemann - Fritsch,Retail,1,2024,quarterly,tax,3918725.55,UAH
+Zboncak Inc,Manufacturing,3,2024,annual,profit,5043978.11,UAH
+Hane - Watsica,Healthcare,3,2020,quarterly,tax,3513918.06,UAH
+Friesen and Sons,Tech,3,2019,annual,expenses,4898467.31,EUR
+Balistreri LLC,Retail,3,2020,annual,profit,5698438.04,USD
+Rippin Inc,Healthcare,3,2022,annual,revenue,2620731.30,EUR
+O'Keefe - Ferry,Healthcare,1,2019,quarterly,revenue,5920466.86,USD
+Kohler Kulas and Will,Retail,2,2023,annual,revenue,1098792.42,EUR
+Turcotte - Pagac,Manufacturing,2,2024,quarterly,profit,6615861.39,USD
+Marks Inc,Finance,4,2024,quarterly,operating_cost,6950247.72,EUR
+Mosciski - Will,Healthcare,2,2024,quarterly,operating_cost,9887409.53,USD
+Wunsch Runolfsdottir and Koelpin,Retail,1,2020,quarterly,tax,7632755.15,UAH
+Roob - Jaskolski,Manufacturing,3,2023,annual,expenses,3896233.74,UAH
+Hintz Torphy and Jakubowski,Tech,4,2024,quarterly,tax,762234.05,EUR
+Davis - Schmidt,Tech,4,2022,annual,expenses,6572374.94,EUR
+Moen Harris and Hagenes,Tech,3,2024,quarterly,expenses,3560243.57,UAH
+Gorczany - Funk,Retail,4,2023,quarterly,revenue,6661080.49,USD
+Wuckert and Sons,Healthcare,1,2024,quarterly,revenue,7205012.02,EUR
+West Murazik and Lebsack,Manufacturing,1,2021,quarterly,tax,5884770.09,USD
+Pfannerstill - Wisoky,Finance,4,2023,quarterly,tax,5322509.87,EUR
+Bode Group,Tech,4,2022,annual,profit,2486953.08,UAH
+DuBuque Kohler and Brown,Manufacturing,1,2022,quarterly,expenses,5909705.87,UAH
+Schultz - Raynor,Manufacturing,1,2019,quarterly,revenue,4881840.97,USD
+Robel Kautzer and Erdman,Retail,1,2019,quarterly,profit,6232523.22,EUR
+Purdy LLC,Tech,1,2022,quarterly,expenses,2766583.31,USD
+Crona Renner and Ferry,Retail,2,2020,quarterly,operating_cost,7637211.06,EUR
+Hamill - Bergstrom,Retail,4,2020,annual,tax,3166600.73,EUR
+Mosciski McDermott and Harvey,Healthcare,1,2023,quarterly,operating_cost,3968180.55,UAH
+Collier LLC,Finance,4,2023,annual,expenses,9964795.90,EUR
+Fadel Inc,Finance,3,2021,annual,expenses,6620587.12,EUR
+Huel and Sons,Manufacturing,2,2024,quarterly,revenue,5395184.35,UAH
+Kiehn - Frami,Healthcare,4,2024,annual,profit,5916704.99,EUR
+Ward - Bayer,Manufacturing,1,2023,annual,expenses,669045.33,UAH
+Schoen and Sons,Manufacturing,4,2024,quarterly,expenses,7832772.09,USD
+Windler O'Conner and Corkery,Manufacturing,2,2023,quarterly,profit,672026.93,USD
+Towne Inc,Retail,4,2019,quarterly,expenses,9306465.86,USD
+Olson LLC,Tech,2,2020,quarterly,operating_cost,7111301.85,USD
+Gorczany Inc,Healthcare,4,2019,quarterly,profit,7676423.11,EUR
+Haley - Stiedemann,Retail,4,2021,quarterly,revenue,8074961.28,EUR
+Lakin Hoppe and Green,Retail,3,2018,quarterly,profit,6310647.80,USD
+Mante Ruecker and Zemlak,Retail,2,2020,annual,profit,232323.22,UAH
+Swift - Dach,Retail,3,2023,quarterly,revenue,2237011.95,EUR
+Abernathy - Schuster,Retail,1,2023,annual,tax,2205311.47,EUR
+Halvorson and Sons,Finance,1,2020,annual,operating_cost,2293085.10,UAH
+Bednar - Tillman,Tech,1,2018,quarterly,profit,5052251.04,EUR
+Rice - McDermott,Retail,3,2021,annual,operating_cost,7277742.86,EUR
+Gerhold - Wisoky,Tech,1,2022,quarterly,profit,8351756.28,UAH
+Bernhard Brakus and Reynolds,Tech,1,2020,quarterly,profit,2012933.78,EUR
+Rowe and Sons,Tech,4,2022,annual,revenue,935893.29,EUR
+Nader LLC,Healthcare,3,2021,annual,expenses,2102345.68,EUR
+Dibbert LLC,Healthcare,1,2019,annual,tax,790992.45,USD
+Kessler Blanda and Tromp,Healthcare,3,2020,quarterly,tax,6696113.26,UAH
+Ebert Inc,Manufacturing,2,2023,quarterly,revenue,8606013.31,EUR
+Haley Windler and Walter,Finance,3,2019,quarterly,operating_cost,9959957.60,EUR
+Schmeler Johnson and Hagenes,Finance,4,2023,annual,tax,1887561.77,UAH
+Metz Inc,Manufacturing,2,2024,annual,expenses,4183550.57,USD
+Heidenreich Feeney and Hodkiewicz,Finance,3,2022,annual,tax,4844110.88,UAH
+Yost Inc,Tech,3,2023,quarterly,revenue,3055220.97,USD
+Blick O'Conner and Franey,Retail,1,2020,annual,operating_cost,4301661.19,UAH
+Hilll and Sons,Retail,1,2023,quarterly,tax,1290265.76,EUR
+Armstrong Aufderhar and Prosacco,Retail,3,2019,quarterly,expenses,6842102.96,USD
+Reichel LLC,Healthcare,2,2019,quarterly,expenses,1949049.79,EUR
+Reichert Robel and Maggio,Manufacturing,4,2022,quarterly,revenue,7902130.47,UAH
+Goyette - Langosh,Tech,1,2020,annual,tax,4992108.15,UAH
+Kautzer Sporer and Cruickshank,Healthcare,3,2024,annual,revenue,4770799.00,UAH
+Beier - Senger,Manufacturing,1,2023,annual,expenses,5377517.89,USD
+Daugherty - Lehner,Retail,2,2024,quarterly,profit,8134113.97,UAH
+Lowe - Walsh,Healthcare,2,2022,quarterly,expenses,8359875.96,USD
+Lowe Kiehn and Maggio,Finance,3,2024,annual,expenses,6695367.29,UAH
+Gutkowski and Sons,Retail,4,2020,quarterly,revenue,3048299.75,UAH
+Grimes Fritsch and Ortiz,Finance,4,2023,quarterly,profit,7489064.79,EUR
+Nader Kirlin and Abernathy,Healthcare,1,2019,annual,tax,4951501.85,EUR
+Ullrich Yundt and Ruecker,Healthcare,4,2019,annual,revenue,2972938.62,EUR
+Heidenreich - Koch,Tech,2,2024,annual,expenses,2181766.67,USD
+Sauer Group,Healthcare,2,2019,annual,profit,3993956.73,USD
+Nicolas - Kohler,Tech,4,2018,annual,tax,2602924.26,USD
+Ryan Inc,Retail,2,2021,quarterly,expenses,2829270.29,USD
+Connelly - Stokes,Retail,4,2022,annual,expenses,9352716.42,USD
+Runolfsdottir and Sons,Finance,4,2021,quarterly,expenses,6335918.23,USD
+Kulas Homenick and Hane,Tech,3,2018,annual,profit,1091987.39,UAH
+Morar Inc,Retail,4,2021,quarterly,revenue,5184298.43,UAH
+Heaney LLC,Finance,1,2023,quarterly,expenses,8231568.60,UAH
+Bauch Inc,Tech,4,2023,quarterly,revenue,8622603.60,EUR
+Heathcote LLC,Healthcare,4,2018,quarterly,revenue,5906739.38,USD
+Lubowitz - Schimmel,Retail,3,2020,quarterly,tax,8514746.40,USD
+Larson - Hoeger,Healthcare,4,2021,quarterly,profit,7021985.50,UAH
+Kuvalis - Braun,Retail,3,2022,annual,operating_cost,8920110.76,UAH
+Smitham Ullrich and Zulauf,Retail,2,2019,annual,expenses,9440471.95,EUR
+Howell Inc,Manufacturing,4,2018,quarterly,profit,3872590.39,USD
+Mraz - Watsica,Tech,3,2021,quarterly,profit,7620989.64,UAH
+Haley LLC,Finance,1,2021,quarterly,tax,8913120.32,USD
+Wiegand Inc,Tech,3,2022,annual,tax,7842609.63,UAH
+Ritchie - Spencer,Healthcare,3,2019,quarterly,expenses,8159013.98,USD
+Monahan Wuckert and Ward,Finance,4,2021,annual,expenses,9004728.38,USD
+Lind and Sons,Tech,2,2022,quarterly,operating_cost,8911211.02,EUR
+Huels Group,Tech,3,2019,quarterly,profit,3286172.94,USD
+Crist Bode and Koch,Finance,3,2020,quarterly,expenses,4400056.08,EUR
+Daniel Inc,Finance,4,2024,annual,profit,7334862.60,USD
+Hudson Wunsch and Lockman,Healthcare,4,2023,annual,revenue,1061465.56,UAH
+Muller Hand and Rohan,Finance,1,2022,quarterly,revenue,4896964.76,EUR
+Windler - DuBuque,Manufacturing,4,2022,annual,revenue,5342546.67,UAH
+Rice Gottlieb and Marquardt,Healthcare,3,2018,quarterly,operating_cost,5201911.58,USD
+Nitzsche Schinner and Osinski,Healthcare,2,2020,annual,revenue,9926005.78,USD
+Schmeler Inc,Finance,1,2024,quarterly,tax,495331.81,UAH
+Kilback Mosciski and Harris,Finance,2,2019,quarterly,profit,4166714.14,UAH
+Nolan - Ziemann,Manufacturing,3,2023,quarterly,expenses,8730379.89,EUR
+Boyle - Wintheiser,Finance,1,2020,annual,operating_cost,2900961.95,EUR
+Morar Jacobi and Hamill,Healthcare,2,2023,annual,revenue,4573711.00,USD
+Upton Inc,Manufacturing,1,2018,annual,revenue,950583.45,USD
+Nikolaus and Sons,Retail,4,2019,annual,tax,7870736.02,USD
+Beier Altenwerth and Wuckert,Finance,1,2024,quarterly,profit,1471921.54,USD
+Spencer LLC,Retail,3,2020,quarterly,expenses,9775607.72,USD
+Jacobson Walter and Powlowski,Healthcare,4,2021,quarterly,operating_cost,4335362.74,EUR
+Kunde Kovacek and Pfannerstill,Retail,1,2018,quarterly,revenue,1864525.45,USD
+Kshlerin - Hyatt,Healthcare,4,2023,annual,tax,1576333.98,USD
+Casper - Haag,Tech,1,2022,annual,operating_cost,8245343.42,UAH
+Grant - Armstrong,Manufacturing,2,2024,annual,tax,4821285.66,UAH
+Kunde Inc,Finance,4,2019,quarterly,operating_cost,243309.44,UAH
+Kulas Mueller and Gusikowski,Finance,1,2020,quarterly,expenses,6248555.91,USD
+Dickens Heidenreich and McClure,Manufacturing,4,2023,quarterly,operating_cost,4172886.84,USD
+Altenwerth and Sons,Healthcare,1,2019,annual,tax,4148893.69,USD
+O'Connell Deckow and Lindgren,Tech,4,2018,quarterly,revenue,8510911.86,USD
+Schneider Koepp and Armstrong,Retail,3,2023,annual,expenses,8175373.78,UAH
+Hansen - Gottlieb,Finance,1,2022,quarterly,expenses,8911755.58,UAH
+Hickle Hagenes and Halvorson,Retail,4,2020,quarterly,profit,4289982.45,USD
+Gorczany Hudson and Monahan,Retail,1,2021,quarterly,operating_cost,8717492.52,UAH
+Lakin - Cassin,Healthcare,4,2023,annual,operating_cost,442851.10,EUR
+Collins - Brown,Tech,3,2023,quarterly,operating_cost,2386250.95,USD
+Mitchell LLC,Finance,3,2018,annual,profit,7624222.83,UAH
+Wilkinson Inc,Tech,1,2019,quarterly,revenue,3212813.57,USD
+Bode - Schmidt,Retail,4,2022,annual,expenses,6378935.46,EUR
+Prosacco - Witting,Tech,2,2019,annual,tax,6192377.35,USD
+Berge LLC,Healthcare,3,2021,annual,operating_cost,4322233.89,USD
+Green LLC,Tech,2,2024,annual,operating_cost,7905601.17,USD
+Rath - Cole,Manufacturing,4,2019,quarterly,profit,1613979.66,UAH
+Cassin Heidenreich and Kertzmann,Healthcare,1,2019,quarterly,expenses,920478.32,USD
+Lowe Stroman and Bednar,Healthcare,2,2020,annual,operating_cost,6322004.59,UAH
+Wilderman LLC,Finance,1,2020,quarterly,profit,4290532.11,EUR
+Altenwerth Streich and Halvorson,Retail,4,2022,quarterly,tax,7768772.19,EUR
+Kemmer - Stiedemann,Retail,1,2022,annual,tax,1526231.28,EUR
+Wilderman Sawayn and Bradtke,Healthcare,4,2021,quarterly,profit,7149857.60,EUR
+Hermiston Inc,Healthcare,3,2021,annual,tax,867252.87,USD
+Dooley - Jakubowski,Finance,3,2023,annual,operating_cost,4552271.64,EUR
+Schoen Inc,Retail,4,2023,annual,revenue,2970542.84,USD
+Pfannerstill - Funk,Tech,3,2018,annual,tax,5767171.15,USD
+Denesik Mraz and Nienow,Healthcare,2,2018,quarterly,expenses,2867470.97,EUR
+Kirlin Klein and McDermott,Retail,2,2020,annual,tax,7576979.48,EUR
+Connelly VonRueden and Lowe,Manufacturing,4,2023,annual,profit,7541538.68,EUR
+Doyle Inc,Manufacturing,2,2021,annual,operating_cost,9184174.79,UAH
+Mosciski Group,Manufacturing,1,2018,quarterly,profit,9451653.95,EUR
+Grady Lind and Becker,Healthcare,4,2021,annual,tax,4462262.22,UAH
+O'Hara Prosacco and Ernser,Manufacturing,2,2018,quarterly,revenue,6814168.65,USD
+Fisher - Schmidt,Retail,1,2018,annual,revenue,2903456.84,EUR
+Stokes Welch and Runte,Manufacturing,2,2018,annual,operating_cost,3123193.56,EUR
+Davis - Schuppe,Manufacturing,3,2020,annual,profit,2153577.45,EUR
+Boehm Dach and Fritsch,Healthcare,2,2022,annual,operating_cost,6832821.53,USD
+Barrows Reynolds and Marvin,Tech,1,2022,quarterly,expenses,9123560.27,UAH
+Blanda and Sons,Healthcare,3,2022,quarterly,tax,6288826.45,UAH
+Swift and Sons,Retail,3,2018,annual,profit,2361647.65,UAH
+Roob Leffler and McKenzie,Healthcare,1,2020,quarterly,tax,5055531.13,EUR
+Quitzon and Sons,Retail,2,2022,annual,expenses,2578143.56,EUR
+Leannon LLC,Retail,1,2020,quarterly,tax,2496256.78,EUR
+Konopelski - Bode,Manufacturing,1,2024,annual,operating_cost,4964520.95,UAH
+Yost - Sipes,Retail,1,2021,annual,revenue,6020153.18,USD
+Ferry - Abshire,Tech,1,2023,quarterly,revenue,2292560.49,USD
+Watsica - Lindgren,Healthcare,2,2023,annual,expenses,8395656.02,USD
+McKenzie - Hauck,Finance,4,2020,quarterly,operating_cost,9109998.20,EUR
+Hayes - Bernhard,Finance,1,2020,annual,tax,782277.17,UAH
+Goodwin Walter and Cormier,Finance,4,2020,annual,revenue,8843209.71,EUR
+Grimes - Zemlak,Healthcare,1,2020,quarterly,operating_cost,6421383.66,USD
+Becker Inc,Finance,3,2023,annual,expenses,9729946.10,UAH
+Spinka Inc,Finance,4,2020,quarterly,profit,3817654.92,USD
+Buckridge Group,Healthcare,1,2019,annual,profit,4643233.89,USD
+Monahan - Monahan,Manufacturing,1,2018,quarterly,tax,7355834.03,UAH
+Barton and Sons,Healthcare,1,2024,quarterly,profit,8189965.54,USD
+Hoppe and Sons,Finance,4,2022,annual,profit,6212008.12,USD
+Gottlieb - Kutch,Healthcare,2,2020,quarterly,revenue,4612612.54,EUR
+Batz Nolan and Wuckert,Finance,4,2018,quarterly,profit,401628.13,UAH
+Spencer LLC,Manufacturing,4,2022,annual,revenue,6120070.73,UAH
+Botsford Group,Finance,2,2019,quarterly,revenue,9151973.13,EUR
+Cummings - Marvin,Finance,2,2022,quarterly,operating_cost,4475344.53,EUR
+Abernathy and Sons,Tech,3,2022,quarterly,operating_cost,8085476.52,EUR
+Wyman - Vandervort,Healthcare,3,2023,quarterly,expenses,6149331.53,UAH
+DuBuque Leffler and Rohan,Tech,2,2021,annual,tax,1702211.87,UAH
+Emmerich - Gerhold,Finance,2,2020,annual,profit,1505332.43,UAH
+Marks LLC,Finance,1,2021,annual,profit,2086673.26,EUR
+Carter - Carroll,Finance,4,2022,quarterly,operating_cost,6541928.37,EUR
+Marvin Bruen and Block,Tech,3,2019,annual,expenses,8238724.89,EUR
+Beier Franey and Mosciski,Healthcare,4,2022,quarterly,expenses,1914456.62,UAH
+Schinner LLC,Healthcare,1,2022,quarterly,expenses,4001348.95,USD
+Dach LLC,Finance,3,2021,quarterly,operating_cost,9179297.73,USD
+Corwin - Ortiz,Healthcare,3,2018,quarterly,operating_cost,564000.50,USD
+Grady Bauch and Feest,Tech,3,2019,quarterly,profit,9065943.64,USD
+Kemmer Becker and Reichel,Finance,2,2019,annual,expenses,1651958.61,UAH
+Mraz O'Conner and Ritchie,Finance,1,2024,quarterly,expenses,5376312.32,USD
+Casper - Sauer,Tech,3,2021,quarterly,revenue,1448112.46,UAH
+Durgan LLC,Tech,1,2019,annual,tax,9750963.00,USD
+Streich Jerde and Hagenes,Healthcare,1,2020,annual,profit,4033488.58,UAH
+Swift Friesen and Jacobi,Tech,4,2024,quarterly,tax,1732496.98,UAH
+Sawayn LLC,Healthcare,4,2021,annual,tax,9346535.89,USD
+Paucek Inc,Finance,3,2022,annual,profit,7866513.83,UAH
+Keebler - Gottlieb,Tech,3,2021,quarterly,operating_cost,9630225.08,USD
+Ferry Schiller and Goyette,Retail,2,2021,annual,profit,9246652.57,EUR
+Davis - Bahringer,Retail,2,2023,annual,operating_cost,6971876.28,EUR
+Botsford Group,Manufacturing,1,2018,quarterly,revenue,1984712.40,UAH
+Doyle and Sons,Retail,1,2021,quarterly,operating_cost,4669121.42,UAH
+Kessler Inc,Finance,1,2022,annual,revenue,5126711.13,EUR
+Leannon LLC,Finance,2,2022,quarterly,tax,3573911.04,EUR
+Gutkowski and Sons,Manufacturing,4,2022,annual,profit,8466524.89,EUR
+Mraz Walker and Boehm,Tech,3,2020,quarterly,revenue,4260365.07,UAH
+Mohr - Feil,Manufacturing,1,2022,quarterly,revenue,9724516.72,UAH
+Fay - Beier,Finance,4,2021,annual,expenses,1940749.29,UAH
+Orn Hammes and Bartoletti,Tech,3,2021,annual,operating_cost,3578059.09,USD
+Kerluke and Sons,Tech,2,2018,quarterly,revenue,4856514.33,UAH
+Cassin - West,Retail,1,2023,annual,tax,7604802.14,USD
+Carroll - Lakin,Finance,4,2024,quarterly,operating_cost,3080484.27,EUR
+Haley Hahn and Witting,Finance,1,2018,annual,expenses,1955380.20,USD
+Leffler Rodriguez and Harber,Healthcare,4,2018,quarterly,operating_cost,6634670.04,USD
+Skiles Kris and Mante,Manufacturing,1,2021,annual,tax,2283154.49,UAH
+McClure Inc,Finance,1,2021,annual,expenses,2976654.66,USD
+Kihn - Schuster,Retail,1,2022,quarterly,tax,2483290.59,EUR
+Reynolds - Kutch,Healthcare,4,2024,quarterly,operating_cost,6520750.61,EUR
+Powlowski Haag and Steuber,Retail,3,2023,quarterly,operating_cost,2695082.57,EUR
+Willms - Sipes,Healthcare,4,2022,annual,expenses,6111014.43,EUR
+Homenick - Friesen,Manufacturing,2,2024,quarterly,operating_cost,8326742.43,UAH
+Thiel LLC,Tech,4,2024,quarterly,revenue,1077648.67,USD
+Kulas LLC,Healthcare,2,2020,annual,revenue,8914373.98,EUR
+Kertzmann Group,Retail,3,2021,quarterly,tax,2096941.81,EUR
+Reichel - Towne,Tech,3,2020,quarterly,expenses,6638130.76,EUR
+Rath - Hickle,Manufacturing,2,2023,annual,operating_cost,2167839.80,UAH
+Yost - Bergnaum,Healthcare,1,2021,annual,revenue,3752958.76,EUR
+Kilback Corkery and Boehm,Retail,3,2019,quarterly,profit,4906119.93,UAH
+Hudson Grimes and Goyette,Healthcare,4,2019,annual,revenue,2115576.65,EUR
+Abernathy - Effertz,Manufacturing,1,2023,quarterly,revenue,4895348.89,UAH
+Schroeder Group,Retail,3,2024,quarterly,revenue,5971761.22,EUR
+Purdy Sipes and Schamberger,Healthcare,1,2021,annual,tax,8923023.83,UAH
+Howe - Marvin,Tech,4,2021,annual,revenue,5667020.56,EUR
+Kessler - Shields,Manufacturing,3,2020,annual,revenue,1496505.75,USD
+Stark - Rempel,Manufacturing,4,2021,quarterly,expenses,2857747.32,USD
+Heidenreich LLC,Tech,3,2024,quarterly,revenue,9759563.37,UAH
+Kutch Johnston and Carroll,Tech,4,2018,annual,revenue,1746137.12,USD
+McClure Group,Manufacturing,3,2022,annual,profit,1693296.10,UAH
+Schmitt LLC,Manufacturing,3,2019,quarterly,tax,8913756.71,UAH
+Reichert Inc,Finance,4,2020,annual,profit,9301599.32,UAH
+Sanford - Barton,Manufacturing,4,2021,quarterly,profit,4412624.56,USD
+Wiza Bashirian and Bergstrom,Finance,3,2019,quarterly,profit,5297662.33,EUR
+Cole Group,Tech,3,2019,annual,revenue,7689072.47,EUR
+Greenfelder - Schmeler,Healthcare,3,2023,annual,operating_cost,7868690.91,USD
+Jast Corwin and Crooks,Tech,2,2022,quarterly,profit,6653060.57,EUR
+Zulauf Emmerich and Hodkiewicz,Finance,4,2024,quarterly,operating_cost,2152079.67,UAH
+Kovacek LLC,Manufacturing,2,2018,annual,profit,7730607.80,USD
+Heidenreich Moen and Bins,Retail,2,2021,quarterly,expenses,9485621.97,UAH
+Heller - King,Retail,3,2021,quarterly,profit,48200.07,EUR
+Lindgren - Grady,Healthcare,2,2018,annual,profit,9632924.77,USD
+Brekke and Sons,Retail,2,2021,annual,tax,8462625.41,UAH
+Klocko Group,Tech,3,2024,annual,profit,1256718.94,EUR
+Langosh - Schulist,Retail,4,2020,quarterly,tax,4137469.47,EUR
+Hane - Stroman,Manufacturing,1,2020,quarterly,tax,3157142.76,EUR
+Mills Bruen and Bahringer,Manufacturing,3,2018,quarterly,operating_cost,836568.55,UAH
+Auer - Schuster,Healthcare,4,2024,quarterly,tax,5604591.71,USD
+Bartell LLC,Healthcare,3,2024,annual,operating_cost,4695187.20,USD
+Lehner Inc,Tech,2,2023,quarterly,profit,2944052.00,UAH
+Schneider - Mills,Retail,4,2018,quarterly,revenue,8314653.78,USD
+Goyette - Walsh,Healthcare,3,2019,annual,revenue,8252315.57,EUR
+Lueilwitz Gerlach and Bayer,Healthcare,1,2022,quarterly,profit,8407025.64,UAH
+Ratke - Hayes,Healthcare,3,2018,annual,revenue,447251.97,UAH
+Becker Inc,Finance,4,2021,quarterly,expenses,2567260.31,EUR
+Smitham - Bode,Manufacturing,4,2023,annual,revenue,3492219.17,USD
+Metz Erdman and Schneider,Finance,1,2019,quarterly,tax,9685728.18,EUR
+Keeling - Schmitt,Tech,1,2022,quarterly,profit,298830.98,USD
+Durgan Group,Tech,3,2023,quarterly,revenue,6494951.10,EUR
+Fisher Witting and Heller,Finance,4,2019,annual,profit,2167635.72,EUR
+Greenholt - King,Tech,4,2022,annual,profit,8749708.90,UAH
+Howe Farrell and Schoen,Tech,2,2020,quarterly,revenue,9453866.15,EUR
+Frami Mills and Wisoky,Tech,2,2019,quarterly,revenue,7824263.12,UAH
+Leffler Group,Finance,3,2021,annual,revenue,8044163.48,UAH
+Reichel Group,Tech,1,2020,annual,tax,4343151.10,EUR
+Smitham - Hilpert,Manufacturing,4,2024,quarterly,tax,4913368.30,EUR
+Abbott Baumbach and Little,Healthcare,3,2019,annual,operating_cost,9307035.89,EUR
+Runolfsson LLC,Finance,2,2022,quarterly,profit,1415327.77,UAH
+Kuvalis Kertzmann and Durgan,Finance,2,2020,quarterly,expenses,5383100.39,EUR
+Barrows Romaguera and Mraz,Tech,3,2022,quarterly,tax,581306.73,EUR
+Farrell MacGyver and Kohler,Finance,2,2020,annual,expenses,4753422.10,USD
+Goodwin Inc,Manufacturing,4,2024,quarterly,expenses,2041934.27,EUR
+Hauck Nitzsche and Murphy,Finance,1,2024,annual,operating_cost,5039928.66,EUR
+Cole Fritsch and Hyatt,Manufacturing,4,2019,quarterly,revenue,4875235.41,EUR
+Veum - Corwin,Manufacturing,2,2022,quarterly,profit,1047442.05,USD
+Wunsch - Hessel,Manufacturing,1,2019,annual,profit,2519000.14,USD
+Watsica - Wintheiser,Retail,2,2018,quarterly,operating_cost,9963883.88,UAH
+O'Conner - Marquardt,Healthcare,4,2022,annual,revenue,1533812.16,USD
+Fay and Sons,Tech,2,2022,quarterly,profit,1436680.22,EUR
+Beier Waelchi and Crist,Healthcare,1,2023,annual,tax,808996.67,USD
+Mertz Jacobi and Rice,Tech,2,2021,quarterly,tax,1667447.24,EUR
+Jenkins - Hyatt,Tech,4,2018,quarterly,operating_cost,3587193.19,USD
+Zulauf - Schultz,Tech,4,2018,quarterly,expenses,2488026.20,USD
+Connelly Group,Manufacturing,4,2019,quarterly,revenue,3909031.41,USD
+Weber Greenfelder and Mann,Tech,2,2023,annual,operating_cost,2838002.45,EUR
+Heathcote - Bechtelar,Finance,2,2023,quarterly,expenses,1382023.40,UAH
+Sawayn and Sons,Healthcare,3,2021,quarterly,expenses,7993698.25,UAH
+Kub Feest and Crist,Healthcare,4,2019,annual,profit,8898804.85,EUR
+Mayert - Torphy,Tech,4,2022,annual,profit,6996769.22,EUR
+Huel - Raynor,Manufacturing,2,2023,annual,tax,4997178.91,UAH
+Bartoletti - Schmidt,Healthcare,4,2023,quarterly,revenue,8316814.35,EUR
+Buckridge Volkman and Marks,Healthcare,2,2021,annual,expenses,1087458.34,EUR
+Graham - Kerluke,Tech,4,2020,quarterly,expenses,1353490.41,EUR
+Nikolaus Group,Retail,4,2019,annual,expenses,1879429.39,UAH
+Klocko Yost and Okuneva,Tech,2,2018,quarterly,tax,6060347.30,EUR
+D'Amore Group,Manufacturing,1,2020,annual,operating_cost,6105608.23,EUR
+Reynolds Halvorson and Prosacco,Healthcare,2,2022,quarterly,expenses,6950227.06,USD
+Weissnat - Mante,Retail,1,2018,quarterly,profit,2356535.94,EUR
+Donnelly Group,Manufacturing,3,2019,annual,tax,6561877.74,EUR
+Gleichner Inc,Finance,2,2018,annual,tax,4259769.40,USD
+Hilll Buckridge and Conn,Healthcare,1,2019,annual,expenses,1908903.53,UAH
+Greenfelder Group,Finance,4,2020,quarterly,operating_cost,6034842.00,USD
+Durgan LLC,Healthcare,3,2021,annual,tax,3793941.99,UAH
+Johnston Wehner and Legros,Healthcare,1,2024,annual,revenue,2978653.45,USD
+Skiles Graham and Hickle,Manufacturing,2,2023,annual,expenses,4972840.07,EUR
+Franey Frami and Mayer,Healthcare,4,2019,annual,revenue,2885833.56,UAH
+Hansen Ledner and Dibbert,Manufacturing,1,2018,annual,profit,1924261.46,UAH
+Bayer - Mueller,Finance,1,2022,quarterly,profit,2947693.11,UAH
+Schneider - Torphy,Manufacturing,4,2021,quarterly,tax,9972330.61,UAH
+Wunsch Group,Tech,1,2024,quarterly,expenses,4687843.62,EUR
+Heidenreich - Kuhlman,Healthcare,1,2021,annual,revenue,9301441.42,EUR
+Wiegand LLC,Manufacturing,3,2023,quarterly,profit,9181354.33,USD
+Schneider - Bartoletti,Manufacturing,3,2018,annual,revenue,9100402.92,USD
+Yost and Sons,Healthcare,1,2022,quarterly,expenses,9858759.76,EUR
+Robel - Prohaska,Healthcare,1,2020,annual,profit,6125397.42,EUR
+Braun LLC,Manufacturing,4,2022,annual,profit,836677.55,USD
+Spencer Parker and Senger,Tech,2,2018,quarterly,tax,3324498.47,UAH
+Tillman - Wyman,Healthcare,4,2023,annual,profit,7985844.41,UAH
+Haag - Lemke,Retail,2,2019,quarterly,revenue,3490523.12,UAH
+Jacobi LLC,Tech,1,2022,annual,profit,3098846.02,UAH
+Baumbach and Sons,Finance,3,2022,annual,expenses,2466286.04,USD
+McDermott Glover and Robel,Finance,3,2024,quarterly,operating_cost,5962631.98,USD
+Mante - Bechtelar,Healthcare,2,2021,quarterly,profit,4336584.11,UAH
+Okuneva Auer and Waelchi,Retail,1,2021,quarterly,expenses,1384464.84,UAH
+Mueller - Langosh,Manufacturing,1,2021,annual,revenue,6825061.42,EUR
+Wilkinson - Volkman,Tech,3,2022,annual,operating_cost,674369.68,EUR
+Hermann - Cummerata,Manufacturing,2,2018,annual,profit,4944333.84,USD
+Ullrich LLC,Tech,1,2019,quarterly,revenue,2784834.66,UAH
+Nolan Denesik and Fadel,Manufacturing,2,2022,quarterly,expenses,1677075.87,EUR
+Maggio LLC,Healthcare,3,2019,annual,tax,2798220.06,USD
+Tillman Group,Retail,4,2019,annual,profit,7855035.79,USD
+Schamberger Parisian and Heathcote,Healthcare,1,2021,annual,profit,3023684.99,EUR
+Conroy - Rempel,Retail,4,2021,quarterly,operating_cost,243244.34,USD
+Goldner - Franey,Retail,3,2023,annual,revenue,8918149.12,USD
+Farrell Collins and Kertzmann,Retail,4,2022,annual,tax,8182889.43,UAH
+Konopelski LLC,Finance,4,2023,quarterly,profit,889226.32,USD
+Pfannerstill Inc,Finance,3,2020,annual,expenses,8157417.98,EUR
+Bechtelar LLC,Healthcare,4,2021,annual,revenue,9436929.94,EUR
+Gorczany Tremblay and Torp,Tech,4,2019,annual,profit,3431356.02,EUR
+Rolfson Group,Manufacturing,4,2021,quarterly,operating_cost,9618805.98,EUR
+Johnston - Haag,Manufacturing,4,2020,annual,operating_cost,9570126.56,EUR
+Zboncak - Renner,Manufacturing,2,2024,annual,tax,1642569.72,USD
+Dibbert Collins and Spinka,Retail,1,2024,quarterly,expenses,4025948.81,USD
+Bins - Jacobson,Manufacturing,1,2018,quarterly,revenue,6556238.00,UAH
+Dare Wehner and Gleason,Tech,3,2023,quarterly,expenses,9516055.73,UAH
+Weimann - Bernhard,Healthcare,3,2024,quarterly,expenses,2159436.08,EUR
+Ebert Inc,Manufacturing,2,2018,quarterly,profit,3020314.64,USD
+Gutmann Runolfsdottir and Kub,Healthcare,3,2022,annual,profit,9008704.40,UAH
+Mayert Schuster and Powlowski,Retail,4,2024,quarterly,operating_cost,2999335.25,USD
+Rice Feil and West,Healthcare,1,2019,annual,tax,3925457.47,USD
+Klein - Hoeger,Retail,2,2023,quarterly,expenses,5593325.81,UAH
+Sporer VonRueden and Carter,Healthcare,3,2018,annual,tax,3399084.58,EUR
+Ankunding Group,Manufacturing,4,2018,annual,expenses,9376674.79,USD
+Dach Pollich and Sanford,Tech,3,2019,quarterly,operating_cost,1006721.22,USD
+Hintz Marquardt and McDermott,Finance,4,2022,annual,tax,3063256.03,UAH
+Bartoletti and Sons,Retail,2,2018,annual,expenses,2970979.53,USD
+Mills Homenick and Blick,Tech,3,2018,annual,revenue,3235180.08,USD
+Batz Raynor and Lang,Tech,4,2019,annual,expenses,2148412.71,USD
+Lebsack Inc,Healthcare,2,2021,quarterly,revenue,3074362.45,EUR
+Stamm LLC,Retail,3,2023,quarterly,expenses,8041579.63,EUR
+Carroll Inc,Retail,1,2024,quarterly,operating_cost,5821542.21,UAH
+Hayes - Renner,Tech,1,2024,annual,operating_cost,6839496.50,USD
+Wilderman Kling and Hammes,Tech,4,2019,annual,expenses,893115.55,UAH
+Crooks - Rutherford,Tech,4,2021,annual,expenses,1207348.39,USD
+Franecki Nader and Koelpin,Tech,4,2024,annual,expenses,6144919.89,UAH
+Roberts LLC,Healthcare,2,2023,annual,expenses,7176773.65,EUR
+Erdman Group,Manufacturing,1,2018,quarterly,profit,1351192.60,USD
+Kerluke Vandervort and Prosacco,Retail,1,2021,annual,operating_cost,6392532.72,USD
+Weimann - Farrell,Manufacturing,2,2024,quarterly,operating_cost,4570305.31,UAH
+Douglas - Stracke,Manufacturing,2,2021,annual,operating_cost,170237.80,EUR
+Spencer - West,Healthcare,3,2021,annual,expenses,1346673.80,UAH
+Little - Johnston,Tech,1,2019,quarterly,revenue,6116236.10,EUR
+Oberbrunner - Schmeler,Tech,2,2023,annual,profit,2231005.22,USD
+Deckow and Sons,Manufacturing,3,2024,quarterly,tax,4344760.99,UAH
+Vandervort - Hoppe,Finance,3,2020,quarterly,operating_cost,5615898.43,EUR
+Kreiger Bartell and Huels,Tech,4,2018,quarterly,expenses,2204367.49,USD
+Predovic Hayes and Nienow,Healthcare,4,2022,quarterly,revenue,1565176.08,UAH
+Okuneva Hickle and Fisher,Manufacturing,1,2023,quarterly,revenue,3799834.98,UAH
+Stehr Inc,Tech,1,2021,annual,revenue,4537614.25,UAH
+Block Howell and Sauer,Healthcare,1,2018,quarterly,tax,2552826.13,EUR
+Crist Group,Retail,3,2019,quarterly,operating_cost,3347159.72,EUR
+O'Kon - Corkery,Healthcare,1,2019,quarterly,revenue,2133682.38,USD
+Dooley - Flatley,Retail,4,2022,annual,revenue,8867308.33,UAH
+Miller Group,Finance,2,2022,quarterly,tax,3212694.69,EUR
+Lubowitz Dickinson and Mann,Tech,4,2018,quarterly,expenses,2764985.68,USD
+Jacobson Homenick and Heathcote,Retail,3,2024,quarterly,profit,2993375.27,EUR
+Hansen - Oberbrunner,Manufacturing,2,2020,quarterly,profit,7066155.34,USD
+Bogisich - Terry,Finance,2,2019,annual,operating_cost,3347647.52,USD
+Bartell Tillman and Jast,Finance,1,2022,annual,tax,8947548.92,EUR
+Schuppe and Sons,Healthcare,3,2022,quarterly,expenses,1085625.66,EUR
+Smitham Group,Retail,4,2019,quarterly,operating_cost,921209.26,EUR
+Glover - Hermann,Tech,3,2023,annual,tax,1114766.38,EUR
+Grady LLC,Finance,4,2018,annual,revenue,1456361.38,EUR
+Barrows Dietrich and Crona,Retail,4,2024,annual,tax,1815243.62,USD
+Beatty Quigley and Veum,Retail,4,2018,annual,expenses,7942811.75,UAH
+Batz Upton and Stiedemann,Retail,2,2023,quarterly,tax,887998.51,EUR
+Kohler Roob and Howe,Healthcare,1,2023,quarterly,expenses,5940456.59,UAH
+Beier Inc,Manufacturing,3,2020,quarterly,profit,3330265.79,EUR
+Ritchie - Rolfson,Retail,1,2020,annual,revenue,5752256.26,EUR
+Kub and Sons,Tech,4,2022,quarterly,profit,4971481.56,UAH
+Legros Thompson and Gleason,Manufacturing,4,2022,quarterly,revenue,3051873.80,USD
+Wolf - Powlowski,Tech,4,2020,quarterly,operating_cost,2122006.55,USD
+Macejkovic - Hand,Finance,3,2023,quarterly,tax,2225887.48,EUR
+Block - Marvin,Manufacturing,3,2022,annual,profit,3571406.18,EUR
+Bechtelar LLC,Finance,1,2024,annual,tax,2680318.47,UAH
+Stehr and Sons,Healthcare,3,2021,annual,expenses,6835444.64,UAH
+Friesen LLC,Finance,4,2021,annual,profit,1010721.97,UAH
+McClure and Sons,Tech,1,2021,annual,revenue,7339489.78,USD
+Parker Kiehn and Lang,Tech,3,2024,annual,profit,9184779.99,USD
+Stamm - Stiedemann,Healthcare,4,2020,quarterly,operating_cost,8706862.31,USD
+Shields - Bergnaum,Manufacturing,3,2021,quarterly,tax,6543543.61,USD
+Parisian - Beatty,Retail,2,2021,quarterly,tax,5515837.85,EUR
+Grady - Gislason,Finance,4,2020,annual,tax,9754228.65,USD
+Emmerich and Sons,Tech,4,2020,quarterly,profit,6341784.86,UAH
+Conn - Crist,Tech,4,2020,quarterly,expenses,5638990.88,UAH
+Abshire Group,Manufacturing,1,2019,annual,expenses,9274028.19,EUR
+Hermann Group,Tech,2,2023,quarterly,tax,8956679.88,USD
+Reinger LLC,Finance,2,2021,quarterly,operating_cost,7237383.07,UAH
+Cormier - Erdman,Retail,4,2018,annual,tax,2460797.34,UAH
+Heaney - Zboncak,Finance,2,2024,annual,tax,7384250.40,EUR
+Rice LLC,Finance,2,2021,quarterly,operating_cost,5854107.30,EUR
+Lindgren Hudson and Parisian,Manufacturing,4,2023,annual,revenue,473603.92,USD
+Homenick - Schimmel,Finance,3,2022,quarterly,expenses,3601750.50,USD
+Pacocha Ritchie and Wolf,Finance,4,2019,quarterly,revenue,3256651.20,USD
+Bergstrom LLC,Tech,4,2021,annual,revenue,2516268.58,USD
+Kuhic Inc,Manufacturing,4,2018,quarterly,tax,4223930.14,UAH
+Reichert Legros and Skiles,Healthcare,2,2024,annual,operating_cost,851652.67,EUR
+Jacobson Toy and Toy,Tech,3,2021,annual,operating_cost,4755426.50,EUR
+Kilback Group,Retail,2,2023,annual,tax,185662.95,EUR
+Wolff Rogahn and Jast,Manufacturing,1,2024,annual,expenses,7641202.56,UAH
+Langosh and Sons,Manufacturing,1,2022,quarterly,revenue,6617058.54,EUR
+Macejkovic LLC,Healthcare,1,2020,quarterly,expenses,8864795.42,USD
+Mueller Bahringer and Balistreri,Finance,4,2022,quarterly,operating_cost,6369802.04,USD
+Mraz - Crist,Healthcare,4,2021,annual,expenses,4906315.72,EUR
+Pouros Parker and Mertz,Finance,3,2021,annual,tax,6877437.72,EUR
+Doyle Group,Manufacturing,3,2023,annual,expenses,1149110.75,UAH
+Borer Rosenbaum and Predovic,Retail,3,2018,annual,expenses,6080280.12,UAH
+Larkin Group,Manufacturing,3,2020,quarterly,expenses,1324195.07,UAH
+Lubowitz - Collier,Healthcare,4,2022,annual,profit,7484826.18,USD
+Treutel LLC,Healthcare,2,2018,quarterly,tax,9347206.05,EUR
+Kiehn Group,Finance,4,2019,annual,expenses,4220191.94,UAH
+Barrows and Sons,Tech,3,2019,annual,profit,4428899.91,UAH
+Becker Hilpert and Pacocha,Manufacturing,2,2020,quarterly,tax,3446838.35,EUR
+Zulauf Group,Healthcare,3,2024,annual,profit,2479651.41,EUR
+Cole - Willms,Tech,4,2023,annual,profit,5980706.27,USD
+Kunze Group,Retail,4,2018,annual,profit,3516983.64,UAH
+Medhurst Gleason and Kuphal,Healthcare,4,2019,quarterly,revenue,2921477.16,UAH
